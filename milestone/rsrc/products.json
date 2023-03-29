@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Nashor's Tooth",
+        "description": "Ability Damage and Attack Speed",
+        "price": 100.0,
+        "quantity": 40,
+        "damage": 150,
+        "speed": 30,
+        "crit": 8
+    },
+    {
+        "name": "Infinity Edge",
+        "description": "Attack Damage and Critical Strike",
+        "price": 200.0,
+        "quantity": 20,
+        "damage": 300,
+        "speed": 20,
+        "crit": 12
+    },
+    {
+        "name": "Luden's Tempest",
+        "description": "Ability Power, Ability haste, Mana, and Magic Penetration",
+        "price": 180.0,
+        "quantity": 30,
+        "damage": 60,
+        "speed": 30,
+        "crit": 8
+    },
+    {
+        "name": "Liandry's Anguish",
+        "description": "Ability Power, Ability haste, and Mana",
+        "price": 180.0,
+        "quantity": 24,
+        "damage": 60,
+        "speed": 30,
+        "crit": 8
+    },
+    {
+        "name": "Divine Sunderer",
+        "description": "Attack Damage, Ability Haste, and Health",
+        "price": 300.0,
+        "quantity": 40,
+        "damage": 250,
+        "speed": 40,
+        "crit": 12
+    },
+    {
+        "name": "Frozen Heart",
+        "description": "Ability Haste, Mana, and Armor",
+        "price": 80.0,
+        "quantity": 5,
+        "armor": 150,
+        "regen": 4
+    },
+    {
+        "name": "Thornmail",
+        "description": "Health, and Armor",
+        "price": 500.0,
+        "quantity": 2,
+        "armor": 400,
+        "regen": 3
+    },
+    {
+        "name": "Spirit Visage",
+        "description": "Ability Haste, Health, Health Regen, and Magic Resistance",
+        "price": 450.0,
+        "quantity": 4,
+        "armor": 300,
+        "regen": 4
+    },
+    {
+        "name": "Locket of the Iron Solari",
+        "description": "Ability Haste, Health, Armor, and Magic Resistance",
+        "price": 250.0,
+        "quantity": 74,
+        "armor": 40,
+        "regen": 1
+    },
+    {
+        "name": "Health Potion",
+        "description": "Health",
+        "price": 50.0,
+        "quantity": 300,
+        "health": 40
+    },
+    {
+        "name": "Refillable Potion",
+        "description": "Health",
+        "price": 60.0,
+        "quantity": 200,
+        "health": 60
+    },
+    {
+        "name": "Corrupting Potion",
+        "description": "Health",
+        "price": 120.0,
+        "quantity": 40,
+        "health": 120
+    }
+]
